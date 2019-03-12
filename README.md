@@ -1,4 +1,4 @@
-E2iPlayer https://mytv.telenor.hu/ host
+E2iPlayer https://www.mindigtv.hu/ host
 
 Install:
 
